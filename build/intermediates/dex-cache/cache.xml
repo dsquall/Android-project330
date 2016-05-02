@@ -1,3 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_d095575c0f9257af5b6a530f340812263a45882b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_71d166d1943b17061838a5b1b4e1bd9d949d8afc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_9f437aa497ca47311f238259f7f4d7cbd35fb190\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_d05b53da2e90e2278d5a9e05342f9f1024b8d87d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_2dd467936e04e9dbea9b6bf4a65f580ae032310f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="10f96207ce2fe350bcc4cfedac49375d204fe950">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2a0b5bd539bc08d612e82c192ebe5c7abe5b255a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a3424e8d93e889dbf1f764070fa8651385b9de71">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aa75f6e6e16dbec42180047f3a6d9f13898727a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_cb068685736c9ad3b06b379229b7e3dfa424a267\classes.dex" />
+    </item>
+
+</items>
