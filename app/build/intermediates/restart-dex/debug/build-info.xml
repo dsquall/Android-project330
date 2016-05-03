@@ -4,28 +4,28 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="823808178759121" >
+    timestamp="82290767560648" >
 
     <task
         name="javac"
-        duration="7323" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="926" />
+        duration="0" />
     <task
         name="verifier"
-        duration="103" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\crogers\Documents\GitHub\Android-project330\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="823808178759121" >
+    <build timestamp="82290767560648" >
         <artifact
-            location="C:\Users\Jon\AndroidStudioProjects\MovieApp2\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\crogers\Documents\GitHub\Android-project330\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 
