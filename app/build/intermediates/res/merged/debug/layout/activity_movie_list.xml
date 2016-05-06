@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LoginActivity">
+    tools:context=".UserAreaActivity">
 
     <TabHost
         android:id="@+id/tabHost"
@@ -41,38 +41,27 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical"></LinearLayout>
 
-                <RelativeLayout
+                <LinearLayout
                     android:id="@+id/Chat"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="horizontal">
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
 
                     <EditText
-                        android:id="@+id/messenger"
-                        android:layout_toLeftOf="@+id/btSend"
-                        android:layout_toStartOf="@+id/btSend"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_alignBottom="@id/btSend"
-                        android:gravity="top"
-                        android:hint="@string/message_hint"
-                        android:imeOptions="actionSend" />
+                        android:id="@+id/msg"
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="2" />
 
                     <Button
-                        android:id="@+id/btSend"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:gravity="center_vertical|end"
-                        android:paddingStart="0dp"
-                        android:paddingLeft="0dp"
-                        android:paddingRight="10dp"
-                        android:paddingEnd="10dp"
-                        android:layout_alignParentRight="true"
-                        android:layout_alignParentEnd="true"
-                        android:text="@string/send"
-                        android:textSize="18sp" >
-                    </Button>
-                </RelativeLayout>
+                        android:id="@+id/send"
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:text="Send" />
+                </LinearLayout>
+
             </FrameLayout>
         </LinearLayout>
     </TabHost>

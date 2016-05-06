@@ -24,7 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.jon.movieapp.MovieListActivity" />
+        <activity android:name="com.example.jon.sideapp.MovieListActivity" />
         <activity android:name="com.example.jon.movieapp.RegisterActivity" />
         <activity android:name="com.example.jon.movieapp.UserAreaActivity" />
     </application>

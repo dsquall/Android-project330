@@ -1,6 +1,7 @@
 package com.example.jon.movieapp;
 
 import android.content.Intent;
+import android.graphics.Movie;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -38,10 +39,13 @@ public class LoginActivity extends AppCompatActivity {
 
             }
         });
+
         bLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                assert etUsername != null;
                 final String username=etUsername.getText().toString();
+                assert etPassword != null;
                 final String password=etPassword.getText().toString();
 
                 Response.Listener<String> responseListener=new Response.Listener<String>(){

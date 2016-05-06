@@ -19,7 +19,7 @@
 
 
 
-        <activity android:name=".MovieListActivity" />
+        <activity android:name="com.example.jon.sideapp.MovieListActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".UserAreaActivity"></activity>
     </application>

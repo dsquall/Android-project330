@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jon\\AndroidStudioProjects\\MovieApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inside.mp3",
+        "source": "C:\\Users\\Jon\\AndroidStudioProjects\\MovieApp2\\app\\src\\main\\res\\raw\\inside.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Jon\\AndroidStudioProjects\\MovieApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\flick.wav",
+        "source": "C:\\Users\\Jon\\AndroidStudioProjects\\MovieApp2\\app\\src\\main\\res\\raw\\flick.wav"
+    }
+]
